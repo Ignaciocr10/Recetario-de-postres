@@ -1,0 +1,57 @@
+body {
+    background-color: #f5e8c7;
+    font-family:sans-serif;
+}
+h1,h2 {
+    text-align: center;
+    color: #8b4513;
+}
+h2 {
+    text-align: center;
+}
+.receta1, .receta2, .receta3 , .receta4 , .receta5 , .receta6 , .receta7 ,.receta8, .receta9 {
+    width: 30em;
+    background:#d2a679;
+    border-radius: 10px;
+    padding: 10px;
+    display: inline-block;
+    margin: 1em;
+}
+p {
+    padding: 10px;
+}
+p,li,ol {
+    color: #4a2c0b;
+}
+summary {
+    font-size: 20px;
+    font-weight: bold;
+    color: #8b4513;
+    margin-left: 5px;
+    padding:3px;
+}
+img {
+    width: 200px;
+    border-radius: 50%;
+}
+.tarta-manzana-container {
+    margin-left: 140px;
+}
+.galletas-jengibre , .crema-volteada-container {
+    width: 200px;
+    border-radius: 100%;
+    margin-left: 9em;
+}
+.galletas-jengibre-container, .mazamorra-morada-container, .mazamorra-morada {
+    padding: 8px;
+}
+.mazamorra-morada-container , .alfajores , .arroz-con-leche, .picarones , .tarta-galletas {
+    margin-left: 120px;
+    border-radius: 50%;
+}
+.cupcakes {
+    margin-left: 120px;
+    border-radius: 100%;
+    width: 200px;
+    height : 200px;
+}
