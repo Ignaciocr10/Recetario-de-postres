@@ -11,7 +11,7 @@ h2 {
 }
 .receta1, .receta2, .receta3 , .receta4 , .receta5 , .receta6 , .receta7 ,.receta8, .receta9 {
     width: 30em;
-    background:#d2a679;
+    background:#d2a679 !important;
     border-radius: 10px;
     padding: 10px;
     display: inline-block;
@@ -21,12 +21,12 @@ p {
     padding: 10px;
 }
 p,li,ol {
-    color: #4a2c0b;
+    color: #4a2c0b !important;
 }
 summary {
     font-size: 20px;
     font-weight: bold;
-    color: #8b4513;
+    color: #8b4513 !important;
     margin-left: 5px;
     padding:3px;
 }
